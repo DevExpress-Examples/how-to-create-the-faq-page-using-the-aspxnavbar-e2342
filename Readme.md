@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to create the FAQ Page using the ASPxNavBar
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2342/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to create the ASPxNavBar groups and items at runtime to create a FAQ page.<br />
